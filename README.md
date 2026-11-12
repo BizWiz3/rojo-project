@@ -1,6 +1,6 @@
 # Rojo Project Template
 
-This repository is a ready-to-use Roblox project template built around Rojo.
+A ready-to-use Roblox project template built around Rojo.
 
 The goal of the project is to give you a clean, source-controlled Roblox setup that feels like a normal codebase instead of editing everything directly in Studio. It is designed to be cloned and used as a starting point for new Roblox games without having to manually configure the project structure each time.
 
