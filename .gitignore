@@ -1,0 +1,8 @@
+packages/
+.ember-patch/
+
+sourcemap.json
+*.rbxl
+*.rbxl.lock
+*.rbxlx
+*.rbxlx.lock

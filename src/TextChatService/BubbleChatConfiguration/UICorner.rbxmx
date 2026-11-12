@@ -1,0 +1,32 @@
+<roblox version="4">
+  <Item class="UICorner" referent="0">
+    <Properties>
+      <string name="Name">UICorner</string>
+      <BinaryString name="AttributesSerialize"></BinaryString>
+      <UDim name="BottomLeftRadius">
+        <S>0</S>
+        <O>12</O>
+      </UDim>
+      <UDim name="BottomRightRadius">
+        <S>0</S>
+        <O>12</O>
+      </UDim>
+      <SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+      <UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+      <bool name="DefinesCapabilities">false</bool>
+      <BinaryString name="SerializedOverrides">
+      </BinaryString>
+      <int64 name="SourceAssetId">-1</int64>
+      <BinaryString name="Tags"></BinaryString>
+      <UDim name="TopLeftRadius">
+        <S>0</S>
+        <O>12</O>
+      </UDim>
+      <UDim name="TopRightRadius">
+        <S>0</S>
+        <O>12</O>
+      </UDim>
+      <UniqueId name="UniqueId">3c29e30f5249aa7d0b06df9800001faa</UniqueId>
+    </Properties>
+  </Item>
+</roblox>
